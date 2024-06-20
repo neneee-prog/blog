@@ -1,0 +1,4 @@
+[submodule "BinetaBlog/public"]
+	path = BinetaBlog/public
+	url = https://github.com/neneee-prog/neneee-prog.github.io.git
+	branch = main
